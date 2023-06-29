@@ -10,12 +10,13 @@ JavaWeb學習成果(仿104網站)
     (3) 提供工作地區、工作性質等TAG以利使用者搜尋
 
 
-循環圖:
+使用者個案:
 
 
 
+![擷取](https://github.com/junior155235/JavaWeb/assets/138016054/7d0812d6-9b3d-4b10-bae3-58d8cfd34730)
 
-![擷取](https://github.com/junior155235/JavaWeb/assets/138016054/21392fdd-675a-4c15-9b36-f14170cf122b)
+
 
 註冊會員畫面:
 
